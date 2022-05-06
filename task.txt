@@ -1,0 +1,12 @@
+REACT Learners Here is your promotional task
+You are to create a basic landing page about any solution at all and implement routing on the app. You should have routes leading to an about page and a contact page. The content of the pages are to be dynamic and are to be passes using either props or state. Also the content can be gotten from any source. 
+Note: Important points to consider;
+Create a react app and implement routing in it.
+The app should have 3pages by default(home page, about page and contact page).
+You can use any design of your choice.
+The contents can be called form any source, maybe an api, js file or even a json file.
+The contents must not be static, they should be passed to other components using either props or state.
+The content should be generic to the solution you’re building.
+Host the app on github after deploying using gh-pages.
+
+Submission Link: https://airtable.com/shr06XoYY9RlorhAe
