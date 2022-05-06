@@ -20,7 +20,7 @@ const Navbar = () => {
         <NavbarContainer>
           <NavLogo to="/">
             <NavIcon />
-            ULTRA
+            ULTRA!
           </NavLogo>
           <MobileIcon onClick={handleClick}>
            { click? <FaTimes/> : <FaBars/>}
